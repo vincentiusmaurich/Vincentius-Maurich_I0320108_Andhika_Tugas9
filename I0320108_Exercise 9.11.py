@@ -19,6 +19,7 @@ def main():
     for nilai in A:
         print("%d " % nilai, end='')
     print("\n")
+
     # mengurutkan array
     sort(A)
     print("Setelah diurutkan: ")
